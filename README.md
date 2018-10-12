@@ -1,2 +1,2 @@
 # Core-Java-Hibe rnate
-Used `Hibernate` ORM for `CRUD` operation in `CORE-JAVA` 
+* [Hibernate](http://hibernate.org/orm/documentation/5.2/) Dialect for `DATABASE` operation with `CORE-JAVA` 
